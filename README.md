@@ -5,7 +5,6 @@ Asignatura: Métodos Numéricos
 Tema: Resolución de sistemas de ecuaciones lineales mediante el método de Gauss-Jordan.
 
 Descripción
-
 Este proyecto tiene como objetivo implementar el método de Gauss-Jordan en Java para resolver sistemas de ecuaciones lineales mediante operaciones elementales sobre matrices.
 
 Objetivo
